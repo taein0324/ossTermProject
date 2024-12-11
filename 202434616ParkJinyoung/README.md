@@ -3,7 +3,7 @@
 ## 프로젝트 이미지 예시
 <table>
   <tr>
-    <td><img src="image.jpg" width="200"></td>
+    <td><img src="image.png" width="200"></td>
     <td><img src="image_with_landmark.jpg" width="200"></td>
     <td><img src="image_with_mask.jpg" width="200"></td>
   </tr>
